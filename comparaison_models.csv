@@ -1,0 +1,145 @@
+,qwen2.5:0.5b,qwen2.5:1.5b,qwen2.5-coder:0.5b,qwen2.5-coder:1.5b,qwen3-1.7b
+std-007-bootstrap-00083,agent invalid action,agent invalid action,agent invalid action,task limit reached,not_attempted
+std-007-bootstrap-00086,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00085,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00087,completed,completed,agent invalid action,completed,completed
+std-007-bootstrap-00084,agent invalid action,completed,agent invalid action,completed,completed
+std-007-bootstrap-00082,completed,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00079,completed,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00080,agent invalid action,completed,agent invalid action,task limit reached,not_attempted
+std-007-bootstrap-00081,agent invalid action,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00077,agent invalid action,task limit reached,agent invalid action,task limit reached,not_attempted
+std-007-bootstrap-00078,agent invalid action,task limit reached,agent invalid action,agent invalid action,completed
+std-007-bootstrap-00073,agent invalid action,completed,agent invalid action,completed,completed
+std-007-bootstrap-00074,completed,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00075,agent invalid action,task limit reached,agent invalid action,completed,not_attempted
+std-007-bootstrap-00076,completed,task limit reached,agent invalid action,completed,not_attempted
+std-007-bootstrap-00072,agent invalid action,agent invalid action,completed,completed,completed
+std-007-bootstrap-00069,agent invalid action,unknown,agent invalid action,completed,completed
+std-007-bootstrap-00070,agent invalid action,unknown,agent invalid action,task limit reached,completed
+std-007-bootstrap-00071,agent invalid action,unknown,agent invalid action,completed,completed
+std-007-bootstrap-00068,completed,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00067,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00065,completed,unknown,agent invalid action,task limit reached,not_attempted
+std-007-bootstrap-00066,completed,completed,agent invalid action,completed,completed
+std-007-bootstrap-00062,completed,unknown,completed,completed,completed
+std-007-bootstrap-00064,agent invalid action,completed,agent invalid action,completed,completed
+std-007-bootstrap-00063,agent invalid action,task limit reached,completed,completed,completed
+std-007-bootstrap-00061,completed,task limit reached,completed,task limit reached,completed
+std-007-bootstrap-00060,agent invalid action,completed,agent invalid action,completed,not_attempted
+std-007-bootstrap-00059,agent invalid action,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00055,agent invalid action,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00058,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00054,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00056,completed,completed,agent invalid action,completed,completed
+std-007-bootstrap-00057,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00049,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00050,agent invalid action,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00052,completed,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00051,agent invalid action,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00053,agent invalid action,completed,agent invalid action,unknown,completed
+std-007-bootstrap-00048,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00046,agent invalid action,completed,agent invalid action,task limit reached,completed
+std-007-bootstrap-00045,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00047,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00044,agent invalid action,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00043,agent invalid action,completed,agent invalid action,completed,completed
+std-007-bootstrap-00041,agent invalid action,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00042,agent invalid action,unknown,agent invalid action,completed,completed
+std-007-bootstrap-00040,agent invalid action,completed,agent invalid action,completed,completed
+std-007-bootstrap-00039,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00034,completed,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00036,completed,completed,agent invalid action,completed,completed
+std-007-bootstrap-00035,completed,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00037,agent invalid action,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00038,completed,task limit reached,agent invalid action,unknown,completed
+std-007-bootstrap-00032,agent invalid action,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00033,completed,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00030,agent invalid action,completed,completed,completed,completed
+std-007-bootstrap-00029,agent invalid action,unknown,agent invalid action,completed,not_attempted
+std-007-bootstrap-00031,completed,completed,agent invalid action,completed,completed
+std-007-bootstrap-00025,completed,task limit reached,agent invalid action,completed,not_attempted
+std-007-bootstrap-00024,completed,agent invalid action,agent invalid action,unknown,completed
+std-007-bootstrap-00026,agent invalid action,unknown,agent invalid action,task limit reached,completed
+std-007-bootstrap-00028,completed,completed,agent invalid action,task limit reached,not_attempted
+std-007-bootstrap-00027,completed,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00022,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-007-bootstrap-00023,agent invalid action,agent invalid action,completed,completed,completed
+std-007-bootstrap-00019,completed,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00020,completed,agent invalid action,completed,task limit reached,completed
+std-007-bootstrap-00018,completed,task limit reached,agent invalid action,completed,not_attempted
+std-007-bootstrap-00021,agent invalid action,agent invalid action,agent invalid action,task limit reached,not_attempted
+std-007-bootstrap-00017,completed,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00016,agent invalid action,completed,agent invalid action,completed,completed
+std-007-bootstrap-00013,agent invalid action,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00012,agent invalid action,completed,agent invalid action,completed,not_attempted
+std-007-bootstrap-00014,agent invalid action,task limit reached,agent invalid action,completed,agent invalid action
+std-007-bootstrap-00011,agent invalid action,completed,agent invalid action,completed,completed
+std-007-bootstrap-00010,completed,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00009,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-007-bootstrap-00008,agent invalid action,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00007,agent invalid action,task limit reached,agent invalid action,task limit reached,completed
+std-007-bootstrap-00006,agent invalid action,completed,agent invalid action,task limit reached,completed
+std-007-bootstrap-00005,agent invalid action,agent invalid action,agent invalid action,task limit reached,completed
+std-007-bootstrap-00004,completed,completed,agent invalid action,completed,completed
+std-007-bootstrap-00002,agent invalid action,agent invalid action,completed,unknown,completed
+std-007-bootstrap-00001,agent invalid action,completed,agent invalid action,completed,completed
+std-007-bootstrap-00003,agent invalid action,completed,agent invalid action,task limit reached,completed
+std-006-new-00008,completed,completed,agent invalid action,completed,completed
+std-007-bootstrap-00000,completed,agent invalid action,agent invalid action,task limit reached,completed
+std-006-new-00007,completed,task limit reached,agent invalid action,completed,completed
+std-006-new-00006,agent invalid action,completed,agent invalid action,completed,completed
+std-006-new-00003,completed,agent invalid action,agent invalid action,completed,completed
+std-006-new-00005,completed,completed,completed,completed,completed
+std-006-new-00004,completed,completed,agent invalid action,completed,completed
+std-007-bootstrap-00015,completed,completed,agent invalid action,completed,completed
+std-006-new-00001,completed,agent invalid action,agent invalid action,completed,completed
+std-005-new-00009,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-006-new-00000,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-006-new-00002,completed,task limit reached,agent invalid action,completed,completed
+std-005-new-00008,completed,task limit reached,agent invalid action,completed,completed
+std-005-new-00004,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-005-new-00003,completed,task limit reached,agent invalid action,completed,completed
+std-005-new-00006,agent invalid action,unknown,agent invalid action,completed,completed
+std-005-new-00007,completed,task limit reached,agent invalid action,completed,completed
+std-005-new-00005,agent invalid action,completed,agent invalid action,completed,completed
+std-004-Q30-00005,completed,completed,agent invalid action,task limit reached,completed
+std-005-new-00000,agent invalid action,agent invalid action,agent invalid action,task limit reached,completed
+std-005-new-00001,completed,agent invalid action,agent invalid action,completed,completed
+std-005-new-00002,completed,unknown,agent invalid action,completed,completed
+std-004-Q30-00004,completed,agent invalid action,agent invalid action,completed,completed
+std-004-Q30-00001,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-004-Q30-00003,completed,completed,agent invalid action,completed,completed
+std-004-Q30-00002,completed,task limit reached,agent invalid action,completed,completed
+std-004-Q30-00000,completed,unknown,agent invalid action,completed,completed
+std-004-Q47-00000,completed,agent invalid action,agent invalid action,completed,completed
+std-004-N41-00003,completed,agent invalid action,agent invalid action,completed,completed
+std-004-N4-00000,agent invalid action,agent invalid action,agent invalid action,completed,completed
+std-004-N225-00000,completed,unknown,completed,task limit reached,completed
+std-004-N41-00002,completed,agent invalid action,agent invalid action,completed,completed
+std-004-Q19-00000,completed,task limit reached,agent invalid action,completed,completed
+std-004-N37-00000,agent invalid action,task limit reached,agent invalid action,completed,completed
+std-004-Q49-00001,completed,unknown,agent invalid action,completed,completed
+std-004-N41-00001,completed,agent invalid action,completed,completed,completed
+std-004-N41-00000,completed,agent invalid action,agent invalid action,completed,completed
+std-004-Q09-00000,completed,completed,agent invalid action,completed,completed
+std-004-N11-00000,unknown,task limit reached,completed,completed,completed
+std-004-Q49-00000,completed,task limit reached,agent invalid action,agent invalid action,completed
+std-003-ac-00004,completed,agent invalid action,agent invalid action,completed,completed
+std-003-ac-00003,completed,task limit reached,agent invalid action,completed,completed
+std-003-ac-00005,completed,agent invalid action,agent invalid action,task limit reached,completed
+std-003-ac-00002,completed,completed,agent invalid action,agent invalid action,completed
+std-003-ac-00000,completed,task limit reached,completed,completed,completed
+std-003-ac-00001,completed,task limit reached,agent invalid action,completed,completed
+std-002-environment-00003,agent invalid action,completed,agent invalid action,completed,completed
+std-002-environment-00002,agent invalid action,task limit reached,agent invalid action,task limit reached,completed
+std-001-stock-00005,agent invalid action,completed,agent invalid action,completed,completed
+std-002-environment-00000,completed,task limit reached,agent invalid action,completed,completed
+std-001-stock-00006,completed,task limit reached,agent invalid action,unknown,completed
+std-002-environment-00001,agent invalid action,completed,agent invalid action,completed,completed
+std-001-stock-00003,completed,task limit reached,agent invalid action,task limit reached,completed
+std-001-stock-00004,agent invalid action,completed,completed,task limit reached,completed
+std-001-stock-00002,agent invalid action,completed,completed,task limit reached,completed
+std-001-stock-00001,completed,task limit reached,agent invalid action,completed,completed
+std-001-stock-00000,agent invalid action,task limit reached,completed,task limit reached,completed
+std-002-environment-00004,agent invalid action,unknown,agent invalid action,task limit reached,completed
