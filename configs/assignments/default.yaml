@@ -2,16 +2,22 @@ import: definition.yaml
 
 concurrency:
   task:
-    dbbench-std: 5
-    os-std: 5
+    dbbench-std: 1
+    os-std: 1
+    os-dev: 1
   agent:
-    gpt-3.5-turbo-0613: 5
+    # gpt-3.5-turbo-0613: 1
+    qwen3-1.7b: 2
+    # qwen3-ollama: 1
+    # qwen2.5-coder:1.5b: 2
 
 assignments: # List[Assignment] | Assignment
   - agent: # "task": List[str] | str ,  "agent": List[str] | str
-      - gpt-3.5-turbo-0613
+      # - gpt-3.5-turbo-0613
+      - qwen3-1.7b
+      # - qwen3-ollama
+      # - qwen2.5-coder:1.5b
     task:
-      - dbbench-std
-      - os-std
+      - os-dev
 
 output: "outputs/{TIMESTAMP}"

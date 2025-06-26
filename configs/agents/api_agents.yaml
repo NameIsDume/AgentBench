@@ -1,23 +1,31 @@
-gpt-3.5-turbo-0613:
-    import: "./openai-chat.yaml"
-    parameters:
-        name: "gpt-3.5-turbo-0613"
-        body:
-            model: "gpt-3.5-turbo-0613"
-            max_tokens: 512
+# gpt-3.5-turbo-0613:
+#   import: "./mac_server.yaml"
+#   parameters:
+#     name: "qwen3:1.7b"
+#     body:
+#       model: "qwen3:1.7b"
+#       max_tokens: 512
 
-text-davinci-003:
-    import: "./openai-text.yaml"
-    parameters:
-        name: "text-davinci-003"
-        body:
-            model: "text-davinci-003"
-            max_tokens: 512
+qwen3-1.7b:
+  import: "./langchain_agent.yaml"
+  parameters:
+    name: "qwen3:1.7b"
+    body:
+      model: "qwen3:1.7b"
+      max_tokens: 512
 
-text-davinci-002:
-    import: "./openai-text.yaml"
-    parameters:
-        name: "text-davinci-002"
-        body:
-            model: "text-davinci-002"
-            max_tokens: 512
+qwen2.5-coder:1.5b:
+  import: "./langchain_agent.yaml"
+  parameters:
+    name: "qwen2.5-coder:1.5b"
+    body:
+      model: "qwen2.5-coder:1.5b"
+      max_tokens: 512
+
+qwen3-ollama:
+  import: "./ollama.yaml"
+  parameters:
+    name: "qwen3-direct"
+    body:
+      model: "qwen3:1.7b"
+      max_tokens: 512

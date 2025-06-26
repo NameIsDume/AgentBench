@@ -1,0 +1,13 @@
+module: src.client.agents.HTTPAgent
+parameters:
+  url: http://localhost:11434/v1/chat/completions
+  headers:
+    Content-Type: application/json
+  body:
+    model: qwen3:1.7b
+    temperature: 0
+  prompter:
+    name: role_content_dict
+    args:
+      agent_role: assistant
+  return_format: "{response[choices][0][message][content]}"

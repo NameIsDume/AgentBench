@@ -1,0 +1,12 @@
+module: src.client.agents.HTTPAgent
+parameters:
+  url: http://localhost:11435/api/chat
+  headers:
+    Content-Type: application/json
+  body:
+    temperature: 0
+  prompter:
+    name: role_content_dict
+    args:
+      agent_role: assistant
+  return_format: "{response[choices][0][message][content]}"

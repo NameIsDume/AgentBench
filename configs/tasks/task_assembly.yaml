@@ -3,12 +3,12 @@ default:
     command: umask 0; [ -f /root/.setup.sh ] && bash /root/.setup.sh;
 
 import:
-  - webshop.yaml
+  # - webshop.yaml
   - dbbench.yaml
-  - mind2web.yaml
-  - card_game.yaml
-  - kg.yaml
+  # - mind2web.yaml
+  # - card_game.yaml
+  # - kg.yaml
   - os.yaml
-  - ltp.yaml
-  - alfworld.yaml
-  - avalon.yaml
+  # - ltp.yaml
+  # - alfworld.yaml
+  # - avalon.yaml
